@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer engineer who likes coding, exploring new things, and understanding how stuff works. <br><br>🛠️ Building stuff — sometimes useful, sometimes just for fun.<br>💡 Interested in systems, hardware-software interaction an AI<br>🔭 Currently exploring backend development<br>📚 Always learning something new
+Computer engineer who likes coding, exploring new things, and understanding how stuff works. <br><br>🛠️ Building stuff - sometimes useful, sometimes just for fun.<br>💡 Interested in systems, hardware-software interaction an AI<br>🔭 Currently exploring backend development<br>📚 Always learning something new
 
 
 ## 🌐 Socials:
